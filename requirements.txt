@@ -1,13 +1,14 @@
 ipykernel
-pandas
-numpy
+numpy 
+pandas 
+tensorflow==2.9.2
 matplotlib
-plotly
 seaborn
-scipy
+nltk
+regex
 scikit-learn
-xgboost
-catboost
-dill
+fastapi==0.78.0
+uvicorn==0.18.3
+Jinja2==3.1.2
 PyYAML
 -e .
